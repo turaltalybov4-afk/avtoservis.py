@@ -6,7 +6,7 @@ CallbackQueryHandler, ConversationHandler,
 filters, ContextTypes
 )
 
-BOT_TOKEN = “8704554931:AAGY7TCnazi-N7Ud2xAnlEwNwr8ZmBVHvLE”
+BOT_TOKEN = 8704554931:AAGY7TCnazi-N7Ud2xAnlEwNwr8ZmBVHvLE
 
 СЕРВИС = {
 “название”: “АвтоМастер”,
